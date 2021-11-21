@@ -14,7 +14,7 @@
   🔬 I'm currently learning Typescript, GraphQL and Nextjs.
   <br>
 
-💻 Simply addicted to code
+💻 I am looking to collaborate to build the next awesome technologies
 <br>
 📚 Building the future via writing codes everyday.
 <br>
@@ -47,7 +47,14 @@
 
 <hr>
 
-<p align=center>
+## &#x1f4c8; GitHub Stats
+
+![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
+
+<!-- <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-isah&show_icons=true&theme=gotham">
   </a>
@@ -66,8 +73,8 @@
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Ibrahim-Isah/zc_plugin_company_goals" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-isah&repo=zc_plugin_company_goals&theme=gotham"></a>
-  
-  <a align="right" href="https://github.com/Ibrahim-Isah/bookmark-landing-page-master" title="Bookmark Landing Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-isah&repo=bookmark-landing-page-master&theme=gotham"></a>
+
+  <a align="right" href="https://github.com/Ibrahim-Isah/bookmark-landing-page-master" title="Bookmark Landing Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-isah&repo=bookmark-landing-page-master&theme=gotham"></a> -->
   <!-- 
 </p>
 <br><br>
@@ -80,7 +87,9 @@
   <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=gotham"></a>
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
 </p> -->
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h4 align="center"><a href="https://github.com/Ibrahim-Isah?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <!--
