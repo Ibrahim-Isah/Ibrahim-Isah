@@ -49,10 +49,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
+![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-isah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-isah&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
+![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-isah)
 
 <!-- <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
