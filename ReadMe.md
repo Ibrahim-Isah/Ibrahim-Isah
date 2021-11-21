@@ -19,10 +19,6 @@
 📚 Building the future via writing codes.
 <br>
 
-<p align="center">
-    [![Ibrahim-Isah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-isah)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
 
   <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
@@ -52,12 +48,12 @@
 
 <hr>
 
-<!-- ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 ![Ibrahim-Isah's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-isah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-isah&layout=compact&theme=tokyonight)](https://github.com/Ibrahim-Isah)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-isah) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-isah)
 
 <!-- <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
