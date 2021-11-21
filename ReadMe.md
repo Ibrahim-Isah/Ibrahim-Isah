@@ -16,7 +16,7 @@
 
 💻 I am looking to collaborate to build the next awesome technologies
 <br>
-📚 Building the future via writing codes everyday.
+📚 Building the future via writing codes.
 <br>
 
 <p align="center">
