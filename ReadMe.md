@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, I'm Dev_abba 👋</h3>
+<h3 align="center">Hello there, I'm Dev_abba a Frontend Developer 👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/emmanuel-nduka-500900119/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -49,8 +49,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-isah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-isah&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
+![Ibrahim-Isah's github stats](https://github-readme-stats.vercel.app/api?username=ibrahim-isah&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-isah&layout=compact&theme=tokyonight)](https://github.com/Ibrahim-Isah)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-isah)
 
